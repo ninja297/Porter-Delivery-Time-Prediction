@@ -1,0 +1,52 @@
+{
+    "numeric": {
+        "order_protocol": 3.0,
+        "total_items": 3.0,
+        "subtotal": 2200.0,
+        "num_distinct_items": 2.0,
+        "min_item_price": 595.0,
+        "max_item_price": 1095.0,
+        "total_onshift_partners": 37.0,
+        "total_busy_partners": 34.0,
+        "total_outstanding_orders": 41.0,
+        "order_hour": 3.0,
+        "order_day": 14.0,
+        "order_month": 2.0,
+        "order_weekday": 3.0,
+        "is_weekend": 0.0
+    },
+    "categorical": {
+        "store_primary_category": [
+            "american",
+            "pizza",
+            "mexican",
+            "burger",
+            "sandwich",
+            "chinese",
+            "japanese",
+            "dessert",
+            "fast",
+            "indian",
+            "italian",
+            "thai",
+            "vietnamese",
+            "mediterranean",
+            "breakfast",
+            "other",
+            "salad",
+            "greek",
+            "seafood",
+            "barbecue",
+            "asian",
+            "sushi",
+            "cafe",
+            "alcohol",
+            "korean",
+            "smoothie",
+            "catering",
+            "middle-eastern",
+            "hawaiian",
+            "dim-sum"
+        ]
+    }
+}
